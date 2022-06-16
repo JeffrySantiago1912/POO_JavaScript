@@ -1,4 +1,4 @@
-//Clase Persona//
+//Clase Persona
 class Persona {
 
   constructor(nombre, apellido, edad) {
